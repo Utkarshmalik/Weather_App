@@ -1,0 +1,50 @@
+.weather-box
+{
+  background:rgba(255, 255, 255, 0.6);
+  padding:30px;
+  width:80%;
+  display: inline-block;
+  position:absolute;
+  left:50%;
+  transform:translateX(-50%);
+  border-radius:15px;
+  text-align:center;
+ }
+
+
+ .status-box
+ {  
+   display:inline-block;
+   
+ }
+
+.box
+{
+  display:inline-block;
+  width:250px;
+  height:150px;
+  margin:10px;
+  border:1px solid #DB3362;
+  box-shadow:3px 2px #DB3362;
+}
+
+.value-box
+{
+  display:block;
+  font-size:20px;
+  margin-top:40px;
+  color:#5D1F2B;
+  font-style:italic;
+  text-decoration:underline;
+}
+
+
+.icon
+{
+  height:220px;
+  width:300px;
+  text-align:center;
+  display:block;
+  margin:0 auto;
+
+}
